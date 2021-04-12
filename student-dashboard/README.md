@@ -9,6 +9,7 @@ This is a student dashboard created for the C3 Experimental internship. I have u
 # Steps to run
 
   - Clone the repository using git clone
+   ``` cd student-dashboard
    $ cd student-dashboard
    $ npm install 
    $ npm start
